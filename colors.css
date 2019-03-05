@@ -1,0 +1,12 @@
+li {
+	border: solid 2px red;
+}
+
+#work{
+	background: grey;
+}
+
+.completed{
+	text-decoration: line-through;
+	color: green;
+}

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Specificty</title>
+	<style type="text/css">
+		/* Specific */
+		ul{
+			color: purple;
+		}
+
+		/* Least Specific */
+
+		body{
+			color: red;
+		}
+
+		/* Semi-Specific */
+		li{
+			color: orange;
+		}
+		/* Second Most Specific */
+		.highlight{
+			color: green;
+		}
+		/* Most Specific */
+		#special{
+			color: yellow;
+		}
+	</style>
+</head>
+<body>
+
+	<p>Hello!!!</p>
+
+	<ul>
+		<li class="highlight" id="special">John</li>
+		<li>Paul</li>
+		<li>George</li>
+		<li class="highlight">Ringo</li>
+	</ul>
+
+</body>
+</html>

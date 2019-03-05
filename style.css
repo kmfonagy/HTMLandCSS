@@ -1,0 +1,63 @@
+/*font-family*/
+
+
+
+p{
+	font-family: Playfair Display SC;
+}
+
+h1{
+	font-family: Pacifico;
+}
+
+p::first-letter{
+	font-family: Rock Salt;
+}
+
+/*font-size*/
+
+body{
+	font-size: 10px;
+}
+
+h1{
+	font-size: 5.0em;
+}
+
+p {
+	font-size: 2em;
+}
+
+/*font-wieght*/
+
+p {
+	font-weight: normal;
+}
+
+span {
+	font-weight: 100;
+}
+
+/*line-height*/
+p {
+	line-height: 1.5;
+} 	
+
+/*text-align*/
+h1{
+	text-align: center;
+}
+
+p{
+	text-align: center;
+}
+
+/*text-decoration*/
+
+span {
+	text-decoration: overline;
+}
+
+p {
+	text-decoration: underline;
+}

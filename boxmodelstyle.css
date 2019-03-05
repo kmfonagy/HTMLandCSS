@@ -1,0 +1,18 @@
+
+p{
+/*Content - Width & Height */
+
+	width: 50%;
+	height: 50%;
+
+/* Borders */
+	border: 2px solid blue;
+
+/* Padding */
+/* TRBL - Top Right Bottom Left */
+	padding: 10px 30px;
+
+/* Margin */
+	margin: 0 auto;
+
+}
